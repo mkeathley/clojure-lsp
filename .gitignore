@@ -7,3 +7,4 @@
 /.cpcache
 /node_modules
 /test.clj
+/clojure-lsp.iml
